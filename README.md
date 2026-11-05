@@ -1,4 +1,8 @@
 # code_3000
+
+HW 9: I believe that AI should be designed to follow ethical principals rather than just focusing on efficiency and throwing the ethics to the side.
+
+
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
 
 _Note_: Odd-numbered assignments are in HuskyCT, while even-numbered assignments are found in this repo and can be submitted to Gradescope via a Github connection.
